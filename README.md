@@ -2,4 +2,4 @@
 
 ## Built with HTML, CSS and JavaScript
 
-[Click here to Preview]()
+[Click here to Preview](https://iamrealecstasy.github.io/analog_clock/)
